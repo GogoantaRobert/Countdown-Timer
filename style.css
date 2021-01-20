@@ -41,8 +41,8 @@ video {
 
 /* Container */
 .container {
-  min-width: 510px;
-  min-height: 280px;
+  min-width: 550px;
+  min-height: 310px;
   color: black;
   margin: 0 auto;
   padding: 25px 50px;
